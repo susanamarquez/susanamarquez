@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Susana
 
-<!--
-**susanamarquez/susanamarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I'm currently studying Humanities at the University Pompeu Fabra.
+- The University is in Barcelona.
+- My speciality would be the Modern and Contemporary world.
+  
+### 🌱 I’m currently learning: 
+- Literature
+- Art
+- History
+- Philosophy
 
-Here are some ideas to get you started:
+### 🙌🏼 Fun fact:
+- Pre-raphaelite painting is amazing.
+- I like to go to museums.
+- I love photography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me: 
+- susana.marquez01@estudiant.upf.edu
+- susanamp15@hotmail.es
+
+### 😄 Pronouns: She/her
