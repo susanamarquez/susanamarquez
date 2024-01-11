@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Susana
+### Hi there 👋 I'm Susana!
 
 ### 🔭 I'm currently studying Humanities at the University Pompeu Fabra.
-- The University is in Barcelona.
 - My speciality would be the Modern and Contemporary world.
+- The University is located in Barcelona.
   
 ### 🌱 I’m currently learning: 
 - Literature
-- Art
+- Art 
 - History
 - Philosophy
 
@@ -17,6 +17,5 @@
 
 ### 📫 How to reach me: 
 - susana.marquez01@estudiant.upf.edu
-- susanamp15@hotmail.es
 
 ### 😄 Pronouns: She/her
